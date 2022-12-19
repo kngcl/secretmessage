@@ -1,0 +1,65 @@
+
+.container {
+  max-width: 550px;
+  margin: auto;
+  border: 1px solid gainsboro;
+  border-radius: 5px;
+  padding: 10px 50px 35px;
+  background-color: #b48787;
+}
+
+.container1 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+.heading {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  padding-bottom: 10px;
+  letter-spacing: 5px;
+}
+
+textarea {
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+button {
+  border: none;
+  background-color: #372948;;
+  color: white;
+  padding: 18px;
+  border-radius: 5px;
+  font-size: 17px;
+  font-weight: bold;
+  width: 100%;
+}
+
+div.rec1,
+div.encoded,
+div.rec2 {
+  margin-top: 10px;
+  padding: 50px 20px;
+  background-color: gainsboro;
+  border-radius: 5px;
+  font-size: 21px;
+}
+
+.p {
+  font-size: 23px;
+  text-align: center;
+  font-weight: bold;
+}
+
+label {
+  font-size: x-large;
+  margin-bottom: 1rem;
+}
