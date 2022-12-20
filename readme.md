@@ -1,6 +1,6 @@
 # Isomorphic
 
-The projects is all about developing an app that checks ​two strings s and t, to determine if they are isomorphic. Two strings are isomorphic if the characters in s can be replaced to get t.
+The projects is all about Implementing the classic method for composing secret messages called a square code.
 
 ## App
 
