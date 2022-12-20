@@ -1,10 +1,10 @@
-# Isomorphic
+# Secret Message
 
 The projects is all about Implementing the classic method for composing secret messages called a square code.
 
 ## App
 
-![Home](assets/images/Screenshot%20from%202022-12-16%2017-51-55.png)
+![Home](assets/images/Screenshot%20from%202022-12-20%2009-05-05.png)
 
 ### Built With
 
@@ -24,14 +24,14 @@ Knowledge about:
 ## Clone project
 
 - To get a local copy up and running follow these simple example steps.
-- Clone this repository with `git@github.com:kngcl/isomorphic.git` using your terminal.
+- Clone this repository with `git@github.com:kngcl/secretmessage.git` using your terminal.
 - Change to the project directory by entering: cd parallax in the terminal.
 
 ## steps
 
-- $ git clone `git@github.com:kngcl/isomorphic.git`
-- $ `cd isomorphic`
-- $ `git checkout feature/isomorphic`
+- $ git clone `git@github.com:kngcl/secretmessage.git`
+- $ `cd secretmessage`
+- $ `git checkout feature/secretmessage`
 
 ## Start App
 
@@ -41,13 +41,13 @@ Knowledge about:
 
 👤 **kngcl**
 
-- GitHub: [@kngcl](https://github.com/kngcl/isomorphic)
+- GitHub: [@kngcl](https://github.com/kngcl/secretmessage)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kngcl/isomorphic/issues).
+Feel free to check the [issues page](https://github.com/kngcl/secretmessage/issues).
 
 ## 📝 License
 
